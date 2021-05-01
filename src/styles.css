@@ -1,0 +1,27 @@
+.Accordion {
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 0.3em;
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+h1,
+p {
+  color: #fff;
+}
+
+.App {
+  background-color: #000080;
+  color: black;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.card {
+  border-radius: 0px !important;
+}
